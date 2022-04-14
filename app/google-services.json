@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262311509912",
+    "project_id": "adminapp-9b9f3",
+    "storage_bucket": "adminapp-9b9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262311509912:android:fb82a5dc6f58e7e21375ed",
+        "android_client_info": {
+          "package_name": "com.example.lastchance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262311509912-jhanem3iqmqk3hi2p61002bj98goka3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5FGGSy1dPNaAgB9Kb-l-MgR501xnH2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262311509912-jhanem3iqmqk3hi2p61002bj98goka3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
